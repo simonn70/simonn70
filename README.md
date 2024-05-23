@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @simonn70
-- 👀 I’m interested in software engineering and AI
-- 🌱 I’m currently learning front end development
-- 💞️ I’m looking to collaborate on awesome front end  projects using reactjs 
+- 👋 Hi, I’m Simon Adjei
+- 👀 I’m interested in software engineering and AI/ML
+- 🌱 I’m currently a software Engineer building startups and products that impacts our world
+- 💞️ I’m looking to collaborate and build awesome and impactful products to make our world a better place
 - 📫 You can reach me on simonadjei70@gmail.com
